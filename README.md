@@ -13,3 +13,10 @@ Convertency is a currency converter that takes the most commonly used currencies
 - Add support for different kinds of currencies
 - Create a more user friendly GUI
 - Allow options to convert a currency into multiple currencies at once
+
+## Images
+### Menu Selection
+![Menu Selection](https://github.com/MitcheeCostelo/Convertency/blob/main/Images/Menu%20Selection.png)
+
+### Results
+![Results](https://github.com/MitcheeCostelo/Convertency/blob/main/Images/Results.png)
