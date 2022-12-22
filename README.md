@@ -3,7 +3,7 @@ Convertency is a currency converter that takes the most commonly used currencies
 
 ## Setup
 - Open the `source.cpp` file through an IDE such as Visual Studio.
-    - If you don't have Visual Studio installed, you can install it [here.] (https://visualstudio.microsoft.com/)
+    - If you don't have Visual Studio installed, you can install it [here.](https://visualstudio.microsoft.com/)
 
 ## How to Use the Program
 - Once you open the program, navigate the menus by entering a number that represents an option and pressing enter.
